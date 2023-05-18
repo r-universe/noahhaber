@@ -8,3 +8,8 @@
 	url = https://github.com/noahhaber/longitudinalcascade
 	shallow = true
 	registered = true
+[submodule "rotatogram"]
+	path = rotatogram
+	url = https://github.com/noahhaber/rotatogram
+	shallow = true
+	registered = true
