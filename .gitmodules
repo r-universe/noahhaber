@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "longitudinalcascade"]
 	path = longitudinalcascade
 	url = https://github.com/noahhaber/longitudinalcascade
-	shallow = true
-	registered = true
 [submodule "rotatogram"]
 	path = rotatogram
 	url = https://github.com/noahhaber/rotatogram
-	shallow = true
-	registered = true
